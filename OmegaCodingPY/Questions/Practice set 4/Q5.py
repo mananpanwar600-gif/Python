@@ -1,0 +1,5 @@
+#  Write a program to count the number of zeros in the following tuple: 
+#  a = (7, 0, 8, 0, 0, 9) 
+
+tup = (7,0,8,0,0,9)
+print(tup.count(0))
